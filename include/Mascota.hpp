@@ -4,9 +4,9 @@ class Mascota{
 private:
     int hambre;
     std::string nombre;
-
+    
 public:
-    Mascota()
+    Mascota(std::string nombre)
     {
         this->hambre = 0;
         this->nombre = nombre;
@@ -29,3 +29,4 @@ public:
         return this->hambre;
     }
 };
+
