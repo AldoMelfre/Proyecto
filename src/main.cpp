@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
 
     Dibujo d1(10, 10, "player");
     Dibujo d2(1, 1, "escenario");
-    Dibujo d3(1, 1, "bala");
+    Dibujo d3(1, 1, "bala");//hh
     int coordenadaX = d1.ObtenerX(); // Obtener la coordenada X de d1
     int coordenadaY = d1.ObtenerY(); // Obtener la coordenada Y de d1
 
