@@ -1,7 +1,7 @@
 class Controlador
 {
 private:
-    /* data */
+    /* datakk */
 public:
     Controlador(/* args */) {}
     ~Controlador() {}
