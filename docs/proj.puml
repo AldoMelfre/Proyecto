@@ -1,6 +1,6 @@
 @startuml
 
-'Controles y ajustes
+'Controles y ajustess
 Controlador <|-- Teclado
 class Teclado{
     A
