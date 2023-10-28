@@ -8,7 +8,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     // cout<<"Press 'd' to --> ,  Press 'a' to <-- , Press 'q' to quit "<<endl;
-    // Tamaño de pagina recomendado 50%
+    // Tamaño de pagina recomendado 55%
     Ventana v;
 
     Dibujo d1(10, 10, "player");
